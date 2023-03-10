@@ -1,1 +1,1 @@
-![Open at Teleconsys](https://github.com/teleconsys/.github/blob/main/images/open-at-TCS.jpg) 
+![banner](https://github.com/teleconsys/.github/blob/main/images/banner_blue.jpg) 
