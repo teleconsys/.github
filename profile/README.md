@@ -30,4 +30,4 @@ ___
 
 <br>
 <a href="https://www.iota.org/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/iota_found.png" width=20% style="float:left"></a>
-<a href="https://www.unicampus.it/en" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/ucbm.png" width=10% style="float:left; position:relative; left:40px"></a>
+<a href="https://www.unicampus.it/en" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/ucbm.png" width=10% style="float:left; position:relative; left:5%"></a>
