@@ -1,4 +1,4 @@
-![banner](../images/banner.jpg) 
+<img src=https://raw.githubusercontent.com/teleconsys/.github/main/images/banner.jpg>
 <br>
 
 ## Our goal
