@@ -22,7 +22,7 @@ ___
 
 <br>
 
-**Cyronclad** is a distributed platform for IoT devices. It empowers IoT systems through the Web3 paradigm. The combination of Distributed Ledger Technologies, Decentralized Identifiers, Smart Contracts, and cryptography enables the potential of the M2M economy, offering benefits in terms of security and maintenance of IoT systems.
+**Cyronclad** is a distributed platform for IoT devices. It empowers IoT systems through the Web3 paradigm. The combination of DLTs, Decentralized Identifiers, Smart Contracts, and cryptography enables the potential of the M2M economy, offering benefits in terms of security and maintenance of IoT systems.
 
 <br>
 
