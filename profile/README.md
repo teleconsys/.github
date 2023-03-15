@@ -1,5 +1,12 @@
 <img src=https://raw.githubusercontent.com/teleconsys/.github/main/images/banner.jpg>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=teleconsys)
+<a href="https://teleconsys.it"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=teleconsys&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href="https://linkedin.com/company/teleconsys" ><img src="https://img.shields.io/badge/-teleconsys-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/> </a>
+<a href="https://twitter.com/teleconsys" ><img src="https://img.shields.io/twitter/follow/teleconsys.svg?style=social" alt="twitter"/> </a>
+
+
+
 ## Our goal
 
 At [Teleconsys](https://www.teleconsys.it/) we try to make innovation simple and open. We are working on projects regarding next-generation technologies such as **Distributed Ledger Technologies** and **Blockchain**, **Artificial Intelligence** and **Quantum Computing**. We want to share with the community some of the tools we develop in our journey toward digital innovation :rocket:
@@ -32,6 +39,4 @@ ___
 <a href="https://www.iota.org/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/iota_found.png" width=20% style="float:left"></a>
 <a href="https://www.unicampus.it/en" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/ucbm.png" width=10% style="float:left; position:relative; left:5%"></a>
 
-___
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=teleconsys)
