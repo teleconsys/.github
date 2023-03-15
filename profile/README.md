@@ -11,9 +11,8 @@ Stay tuned or get involved!
 :bulb: Distributed solutions 
 ---
 
-<br>
-<img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/dora_logo.png" width=40% height=40% style="float:left">  
-<br>
+<img align="left" src="https://raw.githubusercontent.com/teleconsys/.github/main/images/dora_logo_s.png"> 
+
 
 <div style="text-align: justify; position:relative; left:80px; width: 890px;"> <b>dOra</b> is a distributed oracle for decentralized applications. It is able to work as an oracle for DLTs' Smart Contracts, but can also provide multi-party computation on its own. It also offers distributed storage as a feature. We released a simple <a href="https://github.com/teleconsys/dora-storage-demo">demo</a> to test the <b>dOra</b>'s oracle and storage features.  </div>
 <br>
