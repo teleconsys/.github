@@ -10,18 +10,20 @@ Stay tuned or get involved!
 
 :bulb: Distributed solutions 
 ---
+<br>
+<img align="left" src="https://raw.githubusercontent.com/teleconsys/.github/main/images/dora_logo_small.png"> 
+<br>
 
-<img align="left" src="https://raw.githubusercontent.com/teleconsys/.github/main/images/dora_logo_s.png?token=GHSAT0AAAAAAB2QEUU3B4CQU2DA5X2QQAP4ZARWJPQ"> 
 **dOra** is a distributed oracle for decentralized applications. It is able to work as an oracle for DLTs' Smart Contracts, but can also provide multi-party computation on its own. It also offers distributed storage as a feature. We released a simple [demo](https://github.com/teleconsys/dora-storage-demo)</a> to test the **dOra**'s oracle and storage features.  
 <br>
 
 ___
 
 <br>
-<img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/dora_logo_s.png" width=40% height=40% style="float:left">
+<img align="left" src="https://raw.githubusercontent.com/teleconsys/.github/main/images/cyronclad_logo_small.png">
 <br>
 
-<div style="text-align: justify; position:relative; left:80px; width: 890px;"> <b>Cyronclad</b> is a distributed platform for IoT devices. It empowers IoT systems through the Web3 paradigm. The combination of Distributed Ledger Technologies, Decentralized Identifiers, Smart Contracts, and cryptography enables the potential of the M2M economy, offering benefits in terms of security and maintenance of IoT systems.</div>
+**Cyronclad** is a distributed platform for IoT devices. It empowers IoT systems through the Web3 paradigm. The combination of Distributed Ledger Technologies, Decentralized Identifiers, Smart Contracts, and cryptography enables the potential of the M2M economy, offering benefits in terms of security and maintenance of IoT systems.
 <br>
 
 <br>
