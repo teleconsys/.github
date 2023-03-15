@@ -9,9 +9,9 @@
 
 ## Our goal
 
-At [Teleconsys](https://www.teleconsys.it/) we try to make innovation simple and open. We are working on projects regarding next-generation technologies such as **Distributed Ledger Technologies** and **Blockchain**, **Artificial Intelligence** and **Quantum Computing**. We want to share with the community some of the tools we develop in our journey toward digital innovation :rocket:
+At [Teleconsys](https://www.teleconsys.it/) we try to make innovation simple and open. We are working on projects regarding next-generation technologies such as **Distributed Ledger Technologies** and **Blockchain**, **Artificial Intelligence**, and **Quantum Computing**. We want to share with the community some of the tools we develop in our journey toward digital innovation :rocket:
 
-Stay tuned or get involved!
+Stay tuned, or get involved!
 
 :bulb: Distributed solutions 
 ---
@@ -19,7 +19,7 @@ Stay tuned or get involved!
 
 <br>
 
-**dOra** is a distributed oracle for decentralized applications. It is able to work as an oracle for DLTs' Smart Contracts, but can also provide multi-party computation on its own. It also offers distributed storage as a feature. We released a simple [demo](https://github.com/teleconsys/dora-storage-demo)</a> to test the **dOra**'s oracle and storage features.  
+**dOra** is a distributed oracle for decentralized applications. It can work as an oracle for DLTs' Smart Contracts but can also provide multi-party computation on its own. It also offers distributed storage as a feature. We released a simple [demo](https://github.com/teleconsys/dora-storage-demo)</a> to test the **dOra**'s oracle and storage features.  
 
 <br>
 
@@ -37,6 +37,6 @@ ___
 
 <br>
 <a href="https://www.iota.org/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/iota_found.png" width=20% style="float:left"></a>
-<a href="https://www.unicampus.it/en" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/ucbm.png" width=10% style="float:left; position:relative; left:5%"></a>
+<a href="https://www.unicampus.it/en" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/ucbm.png" width=10% style="float:left; position:relative; left:20%"></a>
 
 
