@@ -8,7 +8,7 @@ Stay tuned or get involved!
 
 :bulb: Distributed solutions 
 ---
-<img align="left"  width="300" src="https://raw.githubusercontent.com/teleconsys/.github/main/images/dora_logo_small.png"> 
+<img align="left"  width=30% src="https://raw.githubusercontent.com/teleconsys/.github/main/images/dora_logo_small.png"> 
 
 <br>
 
@@ -18,7 +18,7 @@ Stay tuned or get involved!
 
 ___
 
-<img align="left" width="300" src="https://raw.githubusercontent.com/teleconsys/.github/main/images/cyronclad_logo_small.png">
+<img align="left" width=30% src="https://raw.githubusercontent.com/teleconsys/.github/main/images/cyronclad_logo_small.png">
 
 <br>
 
@@ -29,4 +29,4 @@ ___
 ## Our partners
 
 <br>
-<a href="https://www.iota.org/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/iota_found.png" width=200 style="float:left"></a>
+<a href="https://www.iota.org/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/iota_found.png" width=20% style="float:left"></a>
