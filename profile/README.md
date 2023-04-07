@@ -36,9 +36,9 @@ ___
 ## Our partners
 
 <br>
-<a href="https://www.iota.org/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/iota_found.png" width=30% style="float:left"></a>
-<a href="https://www.unicampus.it/en" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/campusbackground.png" width=28% style="float:left; position:relative; left:20%"></a>
-<a href="https://web.uniroma1.it/saperi_co/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/sapericocut.png" width=28% style="float:left; position:relative; left:20%"></a>
+<a href="https://www.iota.org/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/iota_found.png" width=35% style="float:left"></a>
+<a href="https://www.unicampus.it/en" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/campusbackground.png" width=32.5% style="float:left; position:relative; left:20%"></a>
+<a href="https://web.uniroma1.it/saperi_co/" id="iota_f"><img src="https://raw.githubusercontent.com/teleconsys/.github/main/images/sapericocut.png" width=32.5% style="float:left; position:relative; left:20%"></a>
 
 
 
