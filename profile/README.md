@@ -1,6 +1,6 @@
 <img src=https://raw.githubusercontent.com/teleconsys/.github/main/images/banner.jpg>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=teleconsys)
+![](https://komarev.com/ghpvc/?username=teleconsys&label=visitors&color=orange)
 <a href="https://teleconsys.it"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=teleconsys&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <a href="https://linkedin.com/company/teleconsys" ><img src="https://img.shields.io/badge/-teleconsys-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/> </a>
 <a href="https://twitter.com/teleconsys" ><img src="https://img.shields.io/twitter/follow/teleconsys.svg?style=social" alt="twitter"/> </a>
